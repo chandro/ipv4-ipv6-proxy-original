@@ -1,8 +1,7 @@
 Redirect connections from different ports at one ipv4 address to unique random ipv6 address from \64 subnetwork. Based on 3proxy
 
-# The script not working. Need a maintainer
-# The script not working. Need a maintainer
-# The script not working. Need a maintainer
+# The script not working. Need a maintainer Testing by myself .
+
 
 
 ![cover](cover.svg)
@@ -14,7 +13,7 @@ Redirect connections from different ports at one ipv4 address to unique random i
 ## Installation
 [Video tutorial](https://youtu.be/EKBJHSTmT4w), used as Centos setup
 
-1. `bash <(curl -s "https://raw.githubusercontent.com/dukaev/ipv6_proxy/master/scripts/install.sh")`
+1. `bash <(curl -s "https://raw.githubusercontent.com/chandro/ipv4-ipv6-proxy-original/master/scripts/install.sh")`
 
 1. After installation dowload the file `proxy.zip`
    * File structure: `IP4:PORT:LOGIN:PASS`
